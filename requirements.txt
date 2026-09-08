@@ -1,14 +1,11 @@
+streamlit
 ultralytics
-opencv-python
+opencv-python-headless
 matplotlib
 numpy
 torch
 torchvision
 Pillow
-streamlit
-opencv-python-headless
-numpy
 pandas
-Pillow
 scikit-learn
-ultralytics
+reportlab
